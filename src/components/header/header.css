@@ -34,9 +34,13 @@
   border-radius: 20px;
 }
 
+
 .headerDesc {
   margin: 20px 0px;
+  font-display: flex;
+  text-decoration: dashed;
 }
+
 
 .headerBtn {
   background-color: #0071c2;

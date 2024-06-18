@@ -1,6 +1,6 @@
 .navbar{
   height: 50px;
-  background-color: #003580;
+  background-color: #6981e1;
   display: flex;
   justify-content: center;
 }
@@ -16,12 +16,25 @@
 
 .logo{
   font-weight: 500;
+  font-size: 20px;
+  font-family: "sans francisco", "arial";
+  color: #f0f0f0;
 }
 
-.navButton{
+.navButton1{
   margin-left: 20px;
   border: none;
   padding: 5px 10px;
   cursor: pointer;
   color: #003580;
+  margin-right:20px;
+}
+
+.navButton2{
+  margin-left: 2px;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: #003580;
+  margin-right:20px;
 }
